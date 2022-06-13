@@ -1,5 +1,5 @@
 # Hover Scaling Circle
-- derived from [Brian Design](https://twitter.com/briandesignz)'s [*Build 3 Beginner Javascript Projects in 30 mins Tutorial - HTML, CSS & JS* on YouTube](https://youtu.be/mCQ1-iDSnto)
+- derived from [Brian Design](https://twitter.com/briandesignz)'s [*Build 3 Beginner Javascript Projects in 30 mins Tutorial - HTML, CSS & JS* on YouTube](https://youtu.be/mCQ1-iDSnto?t=1759)
 
 # Tutorial Result
 
